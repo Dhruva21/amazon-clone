@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Amazon Clone
+
+- This React based Web application has all the functionalities that a amazon website has.
+- I made add to cart remove from the cart functionality.
+- For the front end of the website I used ReactJs.
+- For styling the page neatly I used MaterialUI. (This has nice styling attributes.)
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
